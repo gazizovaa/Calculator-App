@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculator App</string>
+
+    <style name="MyExtendFloatingActionButton" parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="backgroundTint">@color/dark_blue</item>
+    </style>
+
+    <style name="MyExtendFloatingActionButton." parent="Widget.MaterialComponents.ExtendedFloatingActionButton">
+        <item name="backgroundTint">@color/gray</item>
+    </style>
+</resources>
